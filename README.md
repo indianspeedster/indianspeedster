@@ -94,5 +94,5 @@ Contribution to my repositories are welcomed!
 <a href="https://www.linkedin.com/in/shekhar-p-aa90249a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shekhar" height="30" width="30" /></a>
 <a href="https://www.instagram.com/indianspeedster/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="30" /></a>
 
-
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=indianspeedster.indianspeedster)
 </p>
